@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: Neela Santhosh Kumar
 
 ##This project focuses on developing a real-time chat application using WebSockets for bi-directional communication and React.js as the front-end framework. The main objective is to create a responsive and interactive chat interface where users can send and receive messages instantly, with persistent message history and a modern UI/UX.
 The application leverages WebSocket technology (via libraries like Socket.IO or native WebSocket APIs) to establish a continuous connection between the client and the server, allowing real-time data transfer without the need for repeated HTTP requests. This ensures seamless communication between users, making the chat feel instant and dynamic.
